@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rXqiNhm4ESsfMuACP8lFxRGnKaXPntSONalSZRWeNcdKqtvAwubijhOlzf0vj6qbe1m5mK1kAJeOAi6Mwi0R+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\50497\\source\\repos\\PM02PG01\\PM02PG01\\PM02PG01.iOS\\PM02PG01.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\50497\\.nuget\\packages\\sqlite-net\\1.6.292\\sqlite-net.1.6.292.nupkg.sha512",
+    "C:\\Users\\50497\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
